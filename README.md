@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👾 voidsyn42
 
-<!--
-**voidsyn42/voidsyn42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "High entropy in code. Low entropy in intent."  
+> — 👤 voidsyn42
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Security R&D | 🐍 Python | 📱 Android internals | 🧬 Automation Nerd  
+💼 Reverse engineering, code morphing, runtime obfuscation experiments  
+💻 Low-level Android tooling | Office doc tinkering (for compatibility, mostly 😉)
+
+---
+
+## 📌 Featured Projects
+
+- [`onlymacro`](https://github.com/voidsyn42/onlymacro)  
+  🔁 Simple converter from VBA macros to OnlyOffice JSON macros.  
+  *"Just trying to make old office tricks future-compatible."*
+
+- [`apkfuscator`](https://github.com/voidsyn42/apkfuscator)  
+  🛠️ Minimalistic APK smali obfuscation engine.  
+  *Proof-of-concept for class/method renaming, string XORing, junk code injection.*
+
+---
+
+## 💭 Side quests
+
+- Reverse structuring of compiled OOXML files (`.docx/.docm`)
+- Custom encrypted config loaders for C2 stagers
+- Prototype dynamic PDF metadata injectors (archived 👀)
+
+---
+
+## 🤖 Currently exploring
+
+- .NET runtime obfuscation models  
+- Android OTA patching + payload injection  
+- DNS-over-TLS for covert control flows
+
+---
+
+### 🕳️ Small Print
+
+- All code is experimental and for research.  
+- If you’re here from a doc, I already know. 🫣
+
